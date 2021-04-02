@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pardhuparameswar
-- 👀 I’m interested in ...frondend development
+- 👋 Hi, I’m @pardhu
+- 👀 I’m interested in ...coding and frondend development
 - 🌱 I’m currently learning ...react, Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
